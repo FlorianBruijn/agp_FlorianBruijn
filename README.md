@@ -1,11 +1,11 @@
-## [titel van jullie game]
+## [RIFT GUARIDAN]
 Project team:[jullie namen]
 
 Platform:
-[jullie platfom]
+[PC / Oculus]
 
 ### Korte omschrijving van de game
-...
+een vr shooter
 
 ---
 #### Producten Werkproces 1
@@ -37,7 +37,7 @@ Platform:
 
    [Backlog]: <https://unreal-academy.codecks.io/decks>
    [Logboek]: <https://github.com/FlorianBruijn/agp_FlorianBruijn/blob/master/producten/logboek.pdf>
-   [GameDesignDoc]: <https://github.com/BerendWeij/agp_inlever_template/blob/master/producten/GameDesignDoc.pdf>
+   [GameDesignDoc]: <https://github.com/FlorianBruijn/agp_FlorianBruijn/blob/master/producten/GameDesignDoc.pdf>
    [RetrospectiveVerslagen]: <https://github.com/FlorianBruijn/agp_FlorianBruijn/blob/master/producten/RetrospectiveVerslagen.pdf>
    [ReviewVerslagen]: <https://github.com/FlorianBruijn/agp_FlorianBruijn/blob/master/producten/ReviewVerslagen.pdf>
    [Prototype]: <https://www.mijnmytheprototype.nl>
